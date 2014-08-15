@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickLookWindows", "QuickLookWindows\QuickLookWindows.csproj", "{CAA55EC7-CB3D-4C55-B023-D0EB2436B00B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginInterface", "PluginInterface\PluginInterface.csproj", "{F487DA68-D98B-4030-872E-3D00F0B236C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FVMultimediaPlugin", "FVMultimediaPlugin\FVMultimediaPlugin.csproj", "{7E120425-58E6-4B92-8EC1-66D65A676CA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FVTextPlugin", "FVTextPlugin\FVTextPlugin.csproj", "{9B69B008-A126-4738-8E46-863037F55A89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FVOfficePlugin", "FVOfficePlugin\FVOfficePlugin.csproj", "{88559960-1AB2-4326-B95D-76AB6C774A2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FVPDFPlugin", "FVPDFPlugin\FVPDFPlugin.csproj", "{2CAAF2C3-6B67-4CD6-92AD-2EF62CD5D498}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAA55EC7-CB3D-4C55-B023-D0EB2436B00B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA55EC7-CB3D-4C55-B023-D0EB2436B00B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA55EC7-CB3D-4C55-B023-D0EB2436B00B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA55EC7-CB3D-4C55-B023-D0EB2436B00B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F487DA68-D98B-4030-872E-3D00F0B236C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F487DA68-D98B-4030-872E-3D00F0B236C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F487DA68-D98B-4030-872E-3D00F0B236C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F487DA68-D98B-4030-872E-3D00F0B236C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E120425-58E6-4B92-8EC1-66D65A676CA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E120425-58E6-4B92-8EC1-66D65A676CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E120425-58E6-4B92-8EC1-66D65A676CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E120425-58E6-4B92-8EC1-66D65A676CA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B69B008-A126-4738-8E46-863037F55A89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B69B008-A126-4738-8E46-863037F55A89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B69B008-A126-4738-8E46-863037F55A89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B69B008-A126-4738-8E46-863037F55A89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88559960-1AB2-4326-B95D-76AB6C774A2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88559960-1AB2-4326-B95D-76AB6C774A2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88559960-1AB2-4326-B95D-76AB6C774A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88559960-1AB2-4326-B95D-76AB6C774A2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CAAF2C3-6B67-4CD6-92AD-2EF62CD5D498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CAAF2C3-6B67-4CD6-92AD-2EF62CD5D498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CAAF2C3-6B67-4CD6-92AD-2EF62CD5D498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CAAF2C3-6B67-4CD6-92AD-2EF62CD5D498}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

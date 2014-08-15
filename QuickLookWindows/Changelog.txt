@@ -1,0 +1,32 @@
+﻿Changelog für Fast View
+
+V. 0.2
+Bugfixes:
+	-kein Absturz mehr, wenn MP3s geöffnet werden
+	-Dateien werden nach schliessen des Fensters freigegeben
+	-kleinere interne Änderungen
+	
+Änderungen:
+	-Neuer Hintergrund(danke an whsprogger)
+	-Mehr Bilder, weniger Buttons
+
+Neue Features:
+	-Es werden jetzt Plugins unterstützt.
+	-Mitgelieferte Plugins:
+		-Multimedia
+			-Videos
+			-Musik
+			-Bilder
+		-Office (erfordert Microsoft Office)
+			-Word
+		-Text
+			-alle Textdateien
+		-PDF
+			-PDF
+	-TrayIcon zum Beenden
+	-Automatischer Updater
+
+
+
+V. 0.1
+-erster Release
